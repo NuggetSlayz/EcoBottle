@@ -3,7 +3,7 @@
 A sleek, modern landing page for **EcoBottle** — a premium, eco-friendly reusable water bottle designed for sustainable living.
 
 ## 🚀 Live Demo
-[View Live Site](https://NuggetSlayz.github.io/EcoBottle)  
+[View Live Site](https://eco-bottle.vercel.app/)  
 
 ---
 
